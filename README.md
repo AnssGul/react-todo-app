@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Muhammad Anus Gul</h1>
-<h3 align="center">🚀 Expert Flutter Developer | 🌍 Pakistan</h3>
+<h3 align="center">🚀 Expert Flutter, React & React Native Developer | 🌍 Pakistan</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding" width="400"/>
@@ -8,16 +8,16 @@
 ---
 
 ### 🛠 **Who Am I?**  
-🌟 **Muhammad Anus Gul**, a dedicated **Flutter Developer** with a proven track record of crafting **high-quality cross-platform mobile apps** that are both stunning and performant.  
+🌟 **Muhammad Anus Gul**, a dedicated **Flutter**, **React**, and **React Native Developer** with a proven track record of crafting **high-quality cross-platform mobile apps** that are both stunning and performant.  
 
 🎯 I specialize in building apps that prioritize **efficiency**, **scalability**, and **seamless user experiences**.  
 
-💼 From small startups to enterprise-level projects, I have the expertise to take on any **Flutter development challenge**.  
+💼 From small startups to enterprise-level projects, I have the expertise to take on any **Flutter**, **React**, or **React Native** development challenge.  
 
 ---
 
 ### 💻 **What I Bring to the Table**  
-🚀 **Framework Expertise**: Mastering Flutter for building dynamic, cross-platform applications.  
+🚀 **Framework Expertise**: Mastering Flutter, React, and React Native for building dynamic, cross-platform applications.  
 ⚙️ **State Management**: Skilled in Bloc, GetX, and Provider for clean architecture and efficient workflows.  
 📡 **API Integration**: Connecting apps to RESTful and GraphQL APIs for real-time functionality.  
 🔥 **Firebase Proficiency**: Expertise in authentication, Firestore, cloud functions, and push notifications.  
@@ -25,14 +25,14 @@
 🎨 **UI/UX Design**: Creating responsive and visually captivating user interfaces.  
 🔒 **Security**: Ensuring app safety with robust authentication and data encryption.  
 
-💡 *“If it’s related to Flutter, I can deliver!” From developing a small MVP to complex AI-powered solutions.*  
+💡 *“If it’s related to Flutter, React, or React Native, I can deliver!” From developing a small MVP to complex AI-powered solutions.*  
 
 ---
 
 ### 🚀 **Why Choose Me?**  
 ✅ **End-to-End Expertise**: I handle everything—design, development, testing, and deployment.  
 ✅ **Proven Track Record**: Successfully delivered **dozens of projects** with satisfied clients worldwide.  
-✅ **Innovative Thinker**: I stay ahead of the curve by constantly exploring the latest Flutter trends and technologies.  
+✅ **Innovative Thinker**: I stay ahead of the curve by constantly exploring the latest Flutter, React, and React Native trends and technologies.  
 ✅ **Collaborative Partner**: I believe in working closely with stakeholders to transform ideas into impactful apps.  
 
 ---
@@ -46,7 +46,7 @@
 
 ### 💡 **Let’s Work Together!**  
 💬 **Talk to me about:**  
-- Mobile app development from scratch.  
+- Mobile app development from scratch in **Flutter**, **React**, or **React Native**.  
 - Choosing the right tools and state management for your project.  
 - Enhancing existing apps with AI/ML capabilities.  
 - Optimizing apps for performance and scalability.  
@@ -86,6 +86,12 @@ You can also visit my personal website to learn more about my work and projects:
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/React_Native_Logo.png" alt="React Native" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
